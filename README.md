@@ -1,6 +1,6 @@
 
 # My Portfolio
-ds projects
+big data projects
 
 # [Project 1: Prediction Approval for Credit Card: Project Overview ](https://github.com/christineoeoeo/creditcard_approval)
 * Create a machine learning model to predict if a credit card application will get approved
