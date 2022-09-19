@@ -13,6 +13,6 @@ big data projects
 * The dataset used in this project : Student_scores.csv. This file has student scores by subject during a school year. 
 * There are 4 attributes in this data source, the student name, the subject, the class score, which indicates the score the student got from his assignments, and the test score, which indicates the score the student got from his final examination. 
 
-* From Data Loading that invloves Loading the CSV into HDFS. The data should be loaded in Parquet format, and the compression used should be GZIP. Follow by choosing a partitioning scheme that would fit this data based on the analytics problems solved in this use case. Next, read the data from this HDFS store, and analyze the following.
+* From Data Loading that involves Loading the CSV into HDFS. The data should be loaded in Parquet format, and the compression used should be GZIP. Follow by choosing a partitioning scheme that would fit this data based on the analytics problems solved in this use case. Read the data from this HDFS store and analyze
 
 
