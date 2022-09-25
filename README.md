@@ -9,7 +9,15 @@ big data projects
 * analyze near real time server log data using Kinesis Firehose to pump Apache log data into Elastic Search so we can easily query data for dashboards use.
 
 
-# [Project 2: Analyzing Student Scores using Hadoop and Apache Spark : Project Overview ](https://github.com/christineoeoeo/studentScores)
+
+# [Project 2: Youtube Analysis using AWS]
+# kaggle dataset
+* data landing on s3, Data Processing using Lambda and Glue and put data into cleansed version to parquet format
+* Writing ETL job with lambda function for data extraction and writing it to table and bringing it back to s3 bucket
+
+
+
+# [Project 3: Analyzing Student Scores using Hadoop and Apache Spark : Project Overview ](https://github.com/christineoeoeo/studentScores)
 * The dataset used in this project : Student_scores.csv. This file has student scores by subject during a school year. 
 * There are 4 attributes in this data source, the student name, the subject, the class score, which indicates the score the student got from his assignments, and the test score, which indicates the score the student got from his final examination. 
 
