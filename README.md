@@ -10,10 +10,10 @@ big data projects
 
 
 
-# [Project 2: Youtube Analysis using AWS]
-# kaggle dataset
-* data landing on s3, Data Processing using Lambda and Glue and put data into cleansed version to parquet format
-* Writing ETL job with lambda function for data extraction and writing it to table and bringing it back to s3 bucket
+# [Project 2: Youtube Analysis using AWS](https://github.com/christineoeoeo/dataengineering-youtube-analysis-project)
+
+* Landing data on S3, perform Data Processing using Lambda and Glue crawler, put data into cleansed version in parquet format
+* Writing ETL job with lambda function that triggers whenever we have changes/new upload for data extraction and writing it to table and bringing it back to S3 bucket
 
 
 
