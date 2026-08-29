@@ -6,7 +6,7 @@ big data projects
 * Present product reccomendations to customers by aggregating and publishing customer data to Kinesis Firehose into s3 data lake, and use apache spark to spin up EMR cluster for recommendation model.
 * create transaction alert when there's unexpected rate of orders coming, using Lambda ot fire off alarm as well as SNS for cellphone text/email.
 * analyze near real time server log data using Kinesis Firehose to pump Apache log data into Elastic Search so we can easily query data for dashboards use.
-
+d
 
 
 # [Project 2: Youtube Analysis using AWS](https://github.com/christineoeoeo/dataengineering-youtube-analysis-project)
